@@ -6,7 +6,7 @@
 
 print("")
 print("^1Crée par : Haci Petlay^0")
-print("^4Pour : LegendRP.^0")
+print("^1https://github.com/H4ci/h4ci_peds^0")
 print("")
 
 
